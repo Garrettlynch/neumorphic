@@ -59,4 +59,11 @@ window.addEventListener('load', function () {
 
 	dragElement(container, btn);
 
+
+
+	/*  slider */
+	const range20 = document.querySelector('#range20');
+	const rangevalue20 = document.querySelector('#rangevalue20');
+	
+	
 });
