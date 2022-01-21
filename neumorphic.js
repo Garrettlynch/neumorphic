@@ -1,10 +1,10 @@
 window.addEventListener('load', function () {
 
 	/*  slider */
-	const container = document.querySelector('#slider1__box');
-	const btn = document.querySelector('#slider1__btn');
-	const color = document.querySelector('#slider1__color');
-	const tooltip = document.querySelector('#slider1__tooltip');
+	const container = document.querySelector('#slider1_box');
+	const btn = document.querySelector('#slider1_btn');
+	const color = document.querySelector('#slider1_color');
+	const tooltip = document.querySelector('#slider1_tooltip');
 
 	dragElement = (target, btn) => {
   		target.addEventListener('mousedown', (e) => {
