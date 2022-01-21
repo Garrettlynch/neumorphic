@@ -61,6 +61,7 @@ window.addEventListener('load', function () {
 
 
 
+
 	/*  slider */
 	const range20 = document.querySelector('#range20');
 	const rangevalue20 = document.querySelector('#rangevalue20');
