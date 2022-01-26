@@ -40,7 +40,7 @@ window.addEventListener('load', function () {
     		tooltip.style.opacity = 1;
 
     		// show the percentage in the tooltip
-    		tooltip.textContent = "Receiving: " + Math.round(percentPosition) + '%';
+    		tooltip.textContent = "Receiving: " + Math.round(percentPosition) + "%";
   		};
 
 		onMouseUp  = (e) => {
